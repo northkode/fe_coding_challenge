@@ -21,6 +21,7 @@ Your users should be able to:
 - Be able to filter jobs on the index page by title, location, and whether a job is for a full-time position
 - Be able to click a job from the index page so that they can read more information and apply for the job
 - **Bonus**: Have the correct color scheme chosen for them based on their computer preferences. _Hint_: Research `prefers-color-scheme` in CSS.
+- Ideally create this solution using SVELTE. But you can use whatever framework you would like.
 
 ## Where to find everything
 
